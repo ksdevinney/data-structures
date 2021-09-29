@@ -4,6 +4,6 @@ In order to learn more about programming and build my computer science knowledge
 
 ## Table of Contents
 
-### [Linked Lists](https://github.com/ksdevinney/data-structures/blob/main/linked-lists.js)
+### [Linked Lists](https://github.com/ksdevinney/data-structures/blob/main/linked-list.js)
 
 [Tutorial from Traversy Media](https://www.youtube.com/watch?v=ZBdE8DElQQU)

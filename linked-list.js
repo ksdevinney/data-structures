@@ -131,8 +131,7 @@ ll.insertHead(8);
 ll.insertHead(128);
 ll.insertLast(99);
 
-ll.clearList();
-
+// ll.clearList();
 // ll.removeIndex(0);
 // ll.insertHere(60, 900);
 //ll.getIndex(100);
