@@ -1,1 +1,9 @@
-# data-structures
+# Data Structures
+
+In order to learn more about programming and build my computer science knowledge, I am practicing various data structures and algorithms through tutorials. In this repo, you will find the code I have written, as well as a link to the tutorial I followed (if applicable).
+
+## Table of Contents
+
+### [Linked Lists](https://github.com/ksdevinney/data-structures/blob/main/linked-lists.js)
+
+[Tutorial from Traversy Media](https://www.youtube.com/watch?v=ZBdE8DElQQU)
