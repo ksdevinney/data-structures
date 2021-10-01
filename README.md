@@ -8,6 +8,10 @@ In order to learn more about programming and build my computer science knowledge
 
 [Tutorial from Traversy Media](https://www.youtube.com/watch?v=ZBdE8DElQQU)
 
-## [Binary Search Tree](https://github.com/ksdevinney/data-structures/blob/main/binary-search-tree.js)
+### [Binary Search Tree](https://github.com/ksdevinney/data-structures/blob/main/binary-search-tree.js)
 
 [Tutorial from Beiatrix](https://www.youtube.com/watch?v=6JeuJRqKJrI)
+
+[Tutorial from FreeCodeCamp](https://www.youtube.com/watch?v=5cU1ILGy6dM)
+
+For the remove method
