@@ -4,6 +4,10 @@ In order to learn more about programming and build my computer science knowledge
 
 ## Table of Contents
 
-### [Linked Lists](https://github.com/ksdevinney/data-structures/blob/main/linked-list.js)
+### [Linked List](https://github.com/ksdevinney/data-structures/blob/main/linked-list.js)
 
 [Tutorial from Traversy Media](https://www.youtube.com/watch?v=ZBdE8DElQQU)
+
+## [Binary Search Tree](https://github.com/ksdevinney/data-structures/blob/main/binary-search-tree.js)
+
+[Tutorial from Beiatrix](https://www.youtube.com/watch?v=6JeuJRqKJrI)

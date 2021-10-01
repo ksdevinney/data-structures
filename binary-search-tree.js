@@ -173,4 +173,4 @@ bst.insertNode(12);
 bst.insertNode(28);
 bst.insertNode(39);
 
-console.log(bst);
+console.log(bst.contains(16));
