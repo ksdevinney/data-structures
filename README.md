@@ -12,6 +12,4 @@ In order to learn more about programming and build my computer science knowledge
 
 [Tutorial from Beiatrix](https://www.youtube.com/watch?v=6JeuJRqKJrI)
 
-[Tutorial from FreeCodeCamp](https://www.youtube.com/watch?v=5cU1ILGy6dM)
-
-For the remove method
+[Tutorial from FreeCodeCamp](https://www.youtube.com/watch?v=5cU1ILGy6dM) - For the remove method
