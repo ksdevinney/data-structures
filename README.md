@@ -13,3 +13,9 @@ In order to learn more about programming and build my computer science knowledge
 [Tutorial from Beiatrix](https://www.youtube.com/watch?v=6JeuJRqKJrI)
 
 [Tutorial from FreeCodeCamp](https://www.youtube.com/watch?v=5cU1ILGy6dM) - For the remove method
+
+### [Queue](https://github.com/ksdevinney/data-structures/blob/main/queue.js)
+
+### [Stack](https://github.com/ksdevinney/data-structures/blob/main/stack.js)
+
+[Stack/Queue tutorial from Beiatrix](https://www.youtube.com/watch?v=1AJ4ldcH2t4)
