@@ -6,6 +6,8 @@ In order to learn more about programming and build my computer science knowledge
 
 ### [Linked List](https://github.com/ksdevinney/data-structures/blob/main/linked-list.js)
 
+A linked list is a linear data structure that holds information, as well as a reference to the next item in the list.
+
 [Tutorial from Traversy Media](https://www.youtube.com/watch?v=ZBdE8DElQQU)
 
 ### [Binary Search Tree](https://github.com/ksdevinney/data-structures/blob/main/binary-search-tree.js)
